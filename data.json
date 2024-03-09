@@ -1,0 +1,165 @@
+[
+  {
+    "name": "David",
+    "age": 39,
+    "skills": [
+      "Web Developer",
+      "Android Developer",
+      "Software Developer"
+    ],
+    "country": "United States",
+    "email": "johndoe@example.com"
+  },
+  {
+    "name": "Maria",
+    "age": 30,
+    "skills": [
+      "Data Scientist",
+      "Graphic Designer",
+      "Digital Marketer"
+    ],
+    "country": "Canada",
+    "email": "mary.smith@example.com"
+  },
+  {
+    "name": "Ahmed",
+    "age": 45,
+    "skills": [
+      "UI/UX Designer",
+      "Project Manager",
+      "Network Engineer"
+    ],
+    "country": "United Kingdom",
+    "email": "ahmed.ali@example.com"
+  },
+  {
+    "name": "Sophia",
+    "age": 19,
+    "skills": [
+      "Cybersecurity Analyst",
+      "Content Writer",
+      "Financial Analyst"
+    ],
+    "country": "Doctor",
+    "email": "sophia.jackson@example.com"
+  },
+  {
+    "name": "Liu",
+    "age": 23,
+    "skills": [
+      "Game Developer",
+      "System Administrator",
+      "Product Manager"
+    ],
+    "country": "Germany",
+    "email": "liu.yi@example.com"
+  },
+  {
+    "name": "Ana",
+    "age": 32,
+    "skills": [
+      "Frontend Developer",
+      "Backend Developer",
+      "Full Stack Developer"
+    ],
+    "country": "United States",
+    "email": "ana.garcia@example.com"
+  },
+  {
+    "name": "Muhammad",
+    "age": 18,
+    "skills": [
+      "UI/UI Developer"
+    ],
+    "country": "Italy",
+    "email": "muhammad.ali@example.com"
+  },
+  {
+    "name": "Elena",
+    "age": 24,
+    "skills": [
+      "DevOps Engineer",
+      "Database Administrator",
+      "Quality Assurance Engineer"
+    ],
+    "country": "China",
+    "email": "elena.schmidt@example.com"
+  },
+  {
+    "name": "Ravi",
+    "age": 36,
+    "skills": [
+      "Mobile App Developer",
+      "UI Designer",
+      "UX Researcher"
+    ],
+    "country": "Japan",
+    "email": "ravi.kumar@example.com"
+  },
+  {
+    "name": "Emilia",
+    "age": 33,
+    "skills": [
+      "Machine Learning Engineer",
+      "Artificial Intelligence Specialist",
+      "Blockchain Developer"
+    ],
+    "country": "Brazil",
+    "email": "emilia.gonzalez@example.com"
+  },
+  {
+    "name": "Hassan",
+    "age": 29,
+    "skills": [
+      "Software Engineer",
+      "Embedded Systems Engineer",
+      "Robotics Engineer"
+    ],
+    "country": "India",
+    "email": "hassan.khan@example.com"
+  },
+  {
+    "name": "Sofia",
+    "age": 41,
+    "skills": [
+      "Cloud Architect",
+      "IT Consultant",
+      "Technical Support Specialist"
+    ],
+    "country": "Australia",
+    "email": "sofia.garcia@example.com"
+  },
+  {
+    "name": "Mikhail",
+    "age": 12,
+    "skills": [
+      "Data Analyst",
+      "Business Intelligence Analyst",
+      "Quantitative Analyst"
+    ],
+    "country": "Russia",
+    "email": "mikhail.kuznetsov@example.com"
+  },
+  {
+    "name": "Alex",
+    "age": 30,
+    "skills": [
+      "Computer Programmer",
+      "Web Designer",
+      "Systems Analyst"
+    ],
+    "country": "Mexico",
+    "email": "alex.ivanov@example.com"
+  },
+  {
+    "name": "Fatoumata",
+    "age": 21,
+    "skills": [
+      "IT Manager",
+      "Network Administrator",
+      "Database Analyst"
+    ],
+    "country": "South Africa",
+    "email": "fatoumata.diallo@example.com"
+  }
+]
