@@ -8,7 +8,8 @@
       "Software Developer"
     ],
     "country": "United States",
-    "email": "johndoe@example.com"
+    "email": "johndoe@example.com",
+    "img": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=1483"
   },
   {
     "name": "Maria",
@@ -19,7 +20,8 @@
       "Digital Marketer"
     ],
     "country": "Canada",
-    "email": "mary.smith@example.com"
+    "email": "mary.smith@example.com",
+    "img": "https://media.istockphoto.com/id/1407759041/photo/confident-happy-beautiful-hispanic-student-girl-indoor-head-shot-portrait.jpg?s=612x612&w=0&k=20&c=12CUDMMzA78XFt16_0PynybQ5O4EBpNSIWSlYsCA8Zc="
   },
   {
     "name": "Ahmed",
@@ -30,7 +32,8 @@
       "Network Engineer"
     ],
     "country": "United Kingdom",
-    "email": "ahmed.ali@example.com"
+    "email": "ahmed.ali@example.com",
+    "img": "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?size=626&ext=jpg&ga=GA1.1.1395880969.1710028800&semt=ais"
   },
   {
     "name": "Sophia",
@@ -41,7 +44,8 @@
       "Financial Analyst"
     ],
     "country": "Doctor",
-    "email": "sophia.jackson@example.com"
+    "email": "sophia.jackson@example.com",
+    "img": "https://media.istockphoto.com/id/1320811419/photo/head-shot-portrait-of-confident-successful-smiling-indian-businesswoman.jpg?s=612x612&w=0&k=20&c=bCUTB8vd8MnzZFIq-x645-SmLNk2sQzOvOvWCPGDfZ4="
   },
   {
     "name": "Liu",
@@ -52,7 +56,8 @@
       "Product Manager"
     ],
     "country": "Germany",
-    "email": "liu.yi@example.com"
+    "email": "liu.yi@example.com",
+    "img": "https://fedspendingtransparency.github.io/assets/img/user_personas/data_owner_mug.jpg"
   },
   {
     "name": "Ana",
@@ -63,7 +68,8 @@
       "Full Stack Developer"
     ],
     "country": "United States",
-    "email": "ana.garcia@example.com"
+    "email": "ana.garcia@example.com",
+    "img": "https://fedspendingtransparency.github.io/assets/img/user_personas/recipient_mug.jpg"
   },
   {
     "name": "Muhammad",
@@ -72,7 +78,8 @@
       "UI/UI Developer"
     ],
     "country": "Italy",
-    "email": "muhammad.ali@example.com"
+    "email": "muhammad.ali@example.com",
+    "img": "https://media.licdn.com/dms/image/C4E03AQEEZUPHzQoE0A/profile-displayphoto-shrink_400_400/0/1623677348445?e=2147483647&v=beta&t=4yBsLbVOvjpli7F64hdqdgYCNg6KkkCwqV8WIHW-YZA"
   },
   {
     "name": "Elena",
@@ -83,7 +90,8 @@
       "Quality Assurance Engineer"
     ],
     "country": "China",
-    "email": "elena.schmidt@example.com"
+    "email": "elena.schmidt@example.com",
+    "img": "https://fedspendingtransparency.github.io/assets/img/user_personas/journalist_mug.jpg"
   },
   {
     "name": "Ravi",
@@ -94,7 +102,8 @@
       "UX Researcher"
     ],
     "country": "Japan",
-    "email": "ravi.kumar@example.com"
+    "email": "ravi.kumar@example.com",
+    "img": "https://media.istockphoto.com/id/1392528328/photo/portrait-of-smiling-handsome-man-in-white-t-shirt-standing-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=6vUtfKvHhNsK9kdNWb7EJlksBDhBBok1bNjNRULsAYs="
   },
   {
     "name": "Emilia",
@@ -105,7 +114,8 @@
       "Blockchain Developer"
     ],
     "country": "Brazil",
-    "email": "emilia.gonzalez@example.com"
+    "email": "emilia.gonzalez@example.com",
+    "img": "https://dwpdigital.blog.gov.uk/wp-content/uploads/sites/197/2017/07/jude-1-620x556.jpg"
   },
   {
     "name": "Hassan",
@@ -116,7 +126,8 @@
       "Robotics Engineer"
     ],
     "country": "India",
-    "email": "hassan.khan@example.com"
+    "email": "hassan.khan@example.com",
+    "img": "https://img.freepik.com/premium-photo/young-handsome-adult-man-feeling-confused-doubtful-wondering-trying-choose-make-decision_1194-219406.jpg"
   },
   {
     "name": "Sofia",
@@ -127,7 +138,8 @@
       "Technical Support Specialist"
     ],
     "country": "Australia",
-    "email": "sofia.garcia@example.com"
+    "email": "sofia.garcia@example.com",
+    "img": "https://dwpdigital.blog.gov.uk/wp-content/uploads/sites/197/2016/07/P1090594-1.jpeg"
   },
   {
     "name": "Mikhail",
@@ -138,7 +150,8 @@
       "Quantitative Analyst"
     ],
     "country": "Russia",
-    "email": "mikhail.kuznetsov@example.com"
+    "email": "mikhail.kuznetsov@example.com",
+    "img": "https://media.licdn.com/dms/image/C5603AQEJxGBovvQ8OQ/profile-displayphoto-shrink_400_400/0/1565020496907?e=2147483647&v=beta&t=LUUIbq_Q6H9rNMKpQcMJZgKw7AxnR4hJc1pjovd0d2k"
   },
   {
     "name": "Alex",
@@ -149,7 +162,8 @@
       "Systems Analyst"
     ],
     "country": "Mexico",
-    "email": "alex.ivanov@example.com"
+    "email": "alex.ivanov@example.com",
+    "img": "https://img.freepik.com/premium-photo/business-people-portrait-concept-smiling-businessman-face-portrait_380164-119773.jpg"
   },
   {
     "name": "Fatoumata",
@@ -160,6 +174,7 @@
       "Database Analyst"
     ],
     "country": "South Africa",
-    "email": "fatoumata.diallo@example.com"
+    "email": "fatoumata.diallo@example.com",
+    "img": "https://lastfm.freetls.fastly.net/i/u/300x300/71765779e016379b5c6df0af4cc09c0b.jpg"
   }
 ]
