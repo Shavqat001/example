@@ -6,5 +6,6 @@
 
 body {
     height: 100vh;
-    background: linear-gradient(to top left, yellowgreen 50%, tomato 50%);
+    background: #444;
+    color: #fff;
 }
