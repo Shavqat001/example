@@ -1,17 +1,5 @@
 [
   {
-    "name": "David",
-    "age": 39,
-    "skills": [
-      "Web Developer",
-      "Android Developer",
-      "Software Developer"
-    ],
-    "country": "United States",
-    "email": "johndoe@example.com",
-    "img": "https://hips.hearstapps.com/hmg-prod/images/david-beckham-career-651da8b878f85.jpg"
-  },
-  {
     "name": "Maria",
     "age": 30,
     "skills": [
